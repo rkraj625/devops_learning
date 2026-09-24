@@ -1,3 +1,3 @@
-<h1> Rajesh Kumar is leaning devops from scratch!! </h1>
+<h1> Rajesh is leaning devops from scratch!! </h1>
 <h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
 <h2> Good Luck and we are almost done with the course.Thankyou</h2>
